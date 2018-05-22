@@ -1,0 +1,73 @@
+body{
+	background-color: #252626
+}
+
+.detail{
+    margin-top: 20px;
+}
+
+.data-list{
+    border: 1px solid #2bce2b75;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin: 5px;
+    height: 115px;
+    background: #000;
+}
+
+.syb{
+    display: inline;
+    font-weight: 600;
+    color: #888465;
+}
+
+.index{
+	display: inline;
+    float: right;
+    font-weight: 600;
+    color: #888465;
+}
+
+.name{
+	font-size: 16px;
+}
+
+.chart{
+	float: right;
+}
+
+.m-t-10{
+	margin-top: 15px;
+}
+
+.input-group{
+	width: 100%;
+}
+
+#search-text{
+    border-radius: 10px;
+    text-align: center;
+}
+
+.modal-header{
+    border-bottom: none !important;
+    background-color: #00000000;
+}
+
+.modal-content{
+	background-color: #ffffffad;
+}
+
+.modal-title{
+    font-size: 18pt;
+    font-weight: 700;
+    text-align: center;
+}
+
+.modal-body{
+    padding-top: 0px !important;
+}
+
+#chart-view{
+    height: 400px;
+}

@@ -1,0 +1,23 @@
+Search : 
+	https://s.yimg.com/xb/v7/finance/autocomplete?appid=finance.yahoo.com&nresults=10&output=yjsonp&region=US&lang=en-US&corsDomain=https%3A%2F%2Fin.finance.yahoo.com&query=DHFL.NS
+
+Chart : 
+	https://query1.finance.yahoo.com/v8/finance/chart/DHFL.NS?interval=1d
+
+Spark : 
+	https://query1.finance.yahoo.com/v7/finance/spark?symbols=DHFL.NS&range=10y&interval=1d
+
+Recommend By Symbol : 
+	https://query1.finance.yahoo.com/v6/finance/recommendationsbysymbol/DHFL.NS?
+
+Summary* : 
+	https://query2.finance.yahoo.com/v10/finance/quoteSummary/DLF.NS?formatted=true&crumb=d6UeK6BIz2v&lang=en-IN&region=IN&modules=summaryProfile%2CfinancialData%2CrecommendationTrend%2CupgradeDowngradeHistory%2Cearnings%2CdefaultKeyStatistics%2CcalendarEvents%2CesgScores&corsDomain=in.finance.yahoo.com
+
+Info : 
+	https://query2.finance.yahoo.com/v1/finance/quoteType/DLF.NS?lang=en-IN&region=IN&corsDomain=in.finance.yahoo.com
+
+Summary 2 : 
+	https://query2.finance.yahoo.com/v10/finance/quoteSummary/DLF.NS?formatted=true&crumb=d6UeK6BIz2v&lang=en-IN&region=IN&modules=price%2CsummaryDetail&corsDomain=in.finance.yahoo.com
+
+Statistics : 
+	https://query1.finance.yahoo.com/v7/finance/quote?formatted=true&crumb=d6UeK6BIz2v&lang=en-IN&region=IN&symbols=AAPL&fields=messageBoardId%2ClongName%2CshortName%2CmarketCap%2CunderlyingSymbol%2CunderlyingExchangeSymbol%2CheadSymbolAsString%2CregularMarketPrice%2CregularMarketChange%2CregularMarketChangePercent%2CregularMarketVolume%2Cuuid%2CregularMarketOpen%2CfiftyTwoWeekLow%2CfiftyTwoWeekHigh&corsDomain=in.finance.yahoo.com
