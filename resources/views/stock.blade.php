@@ -52,7 +52,7 @@
   </div>
 </div>
 <script type="text/javascript" src="js/stock.js"></script>
-<script type="text/javascript" src = "{{url('js/highstock.js')}}"></script>
+<script type="text/javascript" src = "js/highstock.js"></script>
 </body>
 </html>
 
