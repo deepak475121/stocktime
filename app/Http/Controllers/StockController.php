@@ -34,7 +34,7 @@ class StockController extends Controller
                       $select = 0;
                       for ($i=0; $i < count($time); $i++) {
                       	if ($value[$i] != null) {
-                      		$select = $value[$i];
+                      		$select = $value[$i]; 
                       	}
                           $data = [
                           			(($time[$i] + $gmtoffset)* 1000),

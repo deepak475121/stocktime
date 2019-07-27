@@ -36,11 +36,11 @@
 
     <!-- Modal content-->
     <div class="modal-content">
-      <div class="modal-header">
+      <div class="modal-header col-lg-12">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title" id="graph-name">Modal Header</h4>
+        <h4 class="modal-title col-lg-12" id="graph-name">Modal Header</h4>
       </div>
-      <div class="modal-body">
+      <div class="modal-body col-lg-12">
         <!-- <p>Some text in the modal.</p> -->
         <div class="col-lg-12" id="chart-view"></div>
       </div>
